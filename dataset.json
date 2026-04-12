@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Multi-city restaurant dataset for Tucson (Metro), Arizona, covering Tucson. Covers the full metropolitan dining ecosystem of one of the largest metropolitan dining markets. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Tucson (Metro), Arizona, US",
+  "export_job_id": "476e0530-9260-4759-a645-38cac3b5b188",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 340663,
+  "location_name": "Tucson, AZ",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-tucson-metro-arizona-us-sample-340663",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/340663/beamstation_340663_restaurants-us-tucsonaz_SAMPLE_DIST.csv",
+  "sample_pct": 2.03,
+  "sample_records": 25,
+  "sample_sha256": "21de2d712d74b588975b27c6e837fcde2dbb043c731cc08244bcc1887a259ce0",
+  "sample_size_bytes": 114313,
+  "total_records": 1229,
+  "updated_at": "2026-03-31T13:25:06.050449+00:00"
+}
