@@ -1,0 +1,12 @@
+{
+  "export_job_id": "476e0530-9260-4759-a645-38cac3b5b188",
+  "id_short": 340663,
+  "published_at": "2026-04-12T07:12:44Z",
+  "repo_name": "all-restaurants-in-tucson-metro-arizona-us-sample-340663",
+  "sample_asset_name": "beamstation_340663_restaurants-us-tucsonaz_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/340663/beamstation_340663_restaurants-us-tucsonaz_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "21de2d712d74b588975b27c6e837fcde2dbb043c731cc08244bcc1887a259ce0",
+  "sample_size_bytes": 114313,
+  "total_records": 1229
+}
