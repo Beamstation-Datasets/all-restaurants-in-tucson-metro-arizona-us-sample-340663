@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Multi-city restaurant dataset for Tucson (Metro), Arizona, covering Tucson. Covers the full metropolitan dining ecosystem of one of the largest metropolitan dining markets. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Tucson (Metro), Arizona, US",
-  "export_job_id": "680cf3c2-e806-4245-9216-fe5c247b277a",
+  "export_job_id": "84562240-62c0-43f7-8ebd-97e3d096a29f",
   "github_org": "Beamstation-Datasets",
   "id_short": 340663,
   "location_name": "Tucson, AZ",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-tucson-metro-arizona-us-sample-340663",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/340663/beamstation_340663_restaurants-us-tucsonaz_SAMPLE_DIST.csv",
   "sample_pct": 9.97,
-  "sample_records": 217,
-  "sample_sha256": "2c6bb9e62951dc33b5723f23aa5212550abbb9e7869fd3b946c6862884295173",
-  "sample_size_bytes": 766820,
-  "total_records": 2177,
-  "updated_at": "2026-04-14T13:47:34.236645+00:00"
+  "sample_records": 191,
+  "sample_sha256": "536b4aadc0fca4add454fe10af0dd389b6f3a8fb395c2e71dcb68163bebecd8c",
+  "sample_size_bytes": 639852,
+  "total_records": 1915,
+  "updated_at": "2026-04-21T14:49:53.465918+00:00"
 }
