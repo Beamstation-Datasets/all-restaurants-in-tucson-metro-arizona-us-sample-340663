@@ -1,6 +1,6 @@
 # All Restaurants in Tucson (Metro), Arizona, US
 
-> Free BeamStation sample export with 225 rows and masked direct-contact fields.
+> Free BeamStation sample export with 235 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `340663` |
 | Location | Tucson, AZ |
 | Category | Restaurants |
-| Full dataset size | 2,250 records |
-| Free sample size | 225 records (10.0%) |
-| Last export | 2026-04-28T15:54:42.714448+00:00 |
+| Full dataset size | 2,352 records |
+| Free sample size | 235 records (9.99%) |
+| Last export | 2026-05-06T10:52:26.458522+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-tucson-metro-arizona-us-sample-340663/releases/download/sample-latest/beamstation_340663_restaurants-us-tucsonaz_SAMPLE_DIST.csv) |
 
 ## What is in this sample
